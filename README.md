@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haru-arp&show_icons=true&theme=radical)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 

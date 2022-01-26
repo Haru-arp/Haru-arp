@@ -27,5 +27,5 @@
 </p>
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=Haru-arp&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vr1997@naver.com&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Haru-arp)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-arp&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Haru-arp)
 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
+![title](README.assets/md%20page.png)
 
 <h3 align="center"><b>❤️About me❤️</b></h3>
 
@@ -29,5 +29,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haru-arp&show_icons=true&theme=radical)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
 
